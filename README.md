@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajitcool008
+- 👋 Hi, I’m Ajit Sharma
 - 👀 I’m interested in Flutter Development
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 Reach me on ajit.sharma@outlook.com
