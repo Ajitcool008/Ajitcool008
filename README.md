@@ -30,6 +30,10 @@ I am a dynamic professional with over 5 years of experience in **Mobile Applicat
 
 ## 💼 **Experience**
 
+### **Pinntag Ltd (Oct 2023 - Present)**
+- **Role:** Technical Lead
+- Leading team, handled business operations, and managed project budgets, timelines, and team members.
+
 ### **OnGraph Technologies (May 2021 - Aug 2023)**
 - **Role:** Technical Lead
 - Led the Flutter team, handled business operations, and managed project budgets, timelines, and team members.
