@@ -53,9 +53,9 @@ I am a dynamic professional with over 5 years of experience in **Mobile Applicat
 ### **Mobile Applications**
 - [Pinntag](https://play.google.com/store/apps/details?id=com.pinntag.pinntagUS)
 - [Interakt (JIO Haptic)](https://play.google.com/store/apps/details?id=com.haptik.interakt)
-- [Cineprime](https://apps.apple.com/in/app/cineprime/id1638723813)
+- [Dumyah](https://play.google.com/store/apps/details?id=com.dumyah.app)
 - [SafeStreets](https://play.google.com/store/apps/details?id=uk.co.streetsafe.mobile)
-- [Farm Fresh Karnal](https://play.google.com/store/apps/details?id=com.farmfreshkarnal.app)
+- [Sheplates](https://play.google.com/store/apps/details?id=com.app.sheplates)
 - [H-cab](https://play.google.com/store/apps/details?id=com.ongraph.hcab)
 - And many more...
 
