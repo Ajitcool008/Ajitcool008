@@ -102,6 +102,7 @@ I am a dynamic professional with over 5 years of experience in **Mobile Applicat
 
 - 🔗 [LinkedIn](https://www.linkedin.com/ajit-sharma-a0883a72)
 - 🔗 [Medium](https://medium.com/@ajit.cool008)
+- 🔗 [StackOverflow](https://stackoverflow.com/users/14265089/ajit-sharma)
 
 ---
 
