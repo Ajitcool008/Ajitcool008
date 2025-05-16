@@ -30,7 +30,7 @@ I am a dynamic professional with over 5 years of experience in **Mobile Applicat
 
 ## 💼 **Experience**
 
-### **Pinntag Ltd (Oct 2023 - Present)**
+### **Pinntag Ltd (Oct 2023 - Feb 2025)**
 - **Role:** Technical Lead
 - Leading team, handled business operations, and managed project budgets, timelines, and team members.
 
